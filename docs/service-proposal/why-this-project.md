@@ -1,11 +1,34 @@
 # Civic Jury Project
 
-## Overview
-The purpose of this service is not to create the Civic Jury Project as a simple “game,” but to design it as a “public digital service” aimed at addressing social issues through the following challenges.
+## What is the Civic Jury Project?
+Users participate in simulated jury-based cases, review evidence, listen to testimonies, and make decisions through interactive judicial scenarios.
 
 ---
 
-### “Why Does Korean Society Need a Civic Jury Project?”
+## Core Features
+
+- Interactive jury-based case simulations
+- Evidence and testimony review system
+- Choice-driven verdict decisions
+- Multiple social perspective analysis
+- Public opinion and verdict visualization
+- Scenario-based judicial learning
+
+---
+
+## Planned Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Interactive Case Simulation
+- Choice-Based Narrative System
+- Data Visualization
+- - Data Visualization for verdict statistics and civic response analysis
+
+---
+
+## Why This Project Matters
 
 - Citizens’ legal awareness
 - Understanding judicial procedures
@@ -13,11 +36,12 @@ The purpose of this service is not to create the Civic Jury Project as a simple 
 - Social judgment structures
 - Jury system experience
 
-Korean society has long faced uncomfortable truths regarding its judicial system, leading to continuous public distrust surrounding the fairness of trials, the credibility of court rulings, and preferential treatment toward former officials and elites.
+Korean society has continued to discuss issues related to judicial transparency, accessibility, and public trust. These concerns have contributed to ongoing public skepticism regarding the fairness of trials, the credibility of court rulings, and preferential treatment toward former officials and elites.
 
 ---
 
-## Core Challenges of the Judiciary Through Public Trust in the Courts
+## Social Background
+
 In 2015, a nationwide public opinion survey on trust in the courts was conducted in South Korea by the polling agency Realmeter. The survey revealed that more than half of the respondents expressed distrust in every category, including the fairness of trial procedures, the fairness of rulings, and whether judges make independent decisions.
 
 In other words, the younger the generation, the stronger the belief that “neither the trial process nor the outcome can be trusted.” Professor Kim Seokho of the Department of Sociology at Seoul National University analyzed this phenomenon as a reflection of the judiciary’s inconsistent rulings and its history of favoring the privileged. He further explained that the particularly strong distrust among younger generations should not only be viewed as distrust toward the judicial system, but also as distrust toward the older generation and public authority as a whole.
@@ -41,3 +65,10 @@ For example, imagine trying to build a website while communicating with develope
 I believe this issue reflects how the public’s inability to indirectly experience judicial procedures has contributed to growing distrust toward the judiciary.
 
 To provide meaningful value through experiences that allow people to understand this process, I am planning this service and intend to upload the project to GitHub.
+
+---
+
+## Future Vision
+
+The project aims to evolve into a civic educational platform that encourages public understanding of judicial systems, social responsibility, and democratic participation.
+
