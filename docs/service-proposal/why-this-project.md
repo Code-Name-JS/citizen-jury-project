@@ -24,7 +24,7 @@ Users participate in simulated jury-based cases, review evidence, listen to test
 - Interactive Case Simulation
 - Choice-Based Narrative System
 - Data Visualization
-- - Data Visualization for verdict statistics and civic response analysis
+  - Data Visualization for verdict statistics and civic response analysis
 
 ---
 
@@ -71,4 +71,3 @@ To provide meaningful value through experiences that allow people to understand 
 ## Future Vision
 
 The project aims to evolve into a civic educational platform that encourages public understanding of judicial systems, social responsibility, and democratic participation.
-
